@@ -20,3 +20,4 @@
 
 **Stats:**\
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lastlife77&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lastlife77&theme=default)
